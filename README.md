@@ -1,5 +1,5 @@
-## Python API Challenge
-# Module 6 Challenge
+# Python API Challenge
+## Module 6 Challenge
 
 In this repo are 2 projects, titled "WeatherPy" and "VacationPy", both located in the WeatherPy folder.
 
