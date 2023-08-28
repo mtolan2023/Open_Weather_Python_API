@@ -1,5 +1,4 @@
-# Python API Challenge
-## Analysis and visualizations from OpenWeather using Python
+# Analysis and visualizations from OpenWeather using Python/HvPlots
 
 In this repo are 2 projects, titled "WeatherPy" and "VacationPy", both located in the WeatherPy folder.
 
